@@ -35,6 +35,5 @@ Disclaimer: we worked together so both of us work in all the ambits but the stat
 
 Other known bugs: 
 - The Time.deltatime isn't a deltatime, depends on the PC where is played, it will have different speeds.
-- If spawn a lot the shoot, game crashes.
 - We also don't destroy the player, we use the alpha parameter to make them invisible and we also give him inmortality so we don't bug the game.
 - It's not a bug, but is different, we use a pong answer instead of sending pings constantly from the server.
